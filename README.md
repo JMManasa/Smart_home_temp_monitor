@@ -6,7 +6,7 @@ It reads temperature data (simulated sensor), applies **control logic** (Fan/Hea
 
 This is designed as a **simple but effective embedded/IoT-style project** for learning and showcasing skills to companies like **Zentree Labs**.
 
----
+
 
 ## 🚀 Features
 - Simulates sensor readings (10°C–30°C)
@@ -17,6 +17,4 @@ This is designed as a **simple but effective embedded/IoT-style project** for le
 - Saves results in `temperature_log.txt`
 - Menu-driven (Start/Exit)
 
----
 
-## 🖥️ Sample Output
