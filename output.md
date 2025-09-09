@@ -2,7 +2,10 @@
 
 ## 🖥️ Sample Output (Text)
 ====================================
+
 Smart Home Temperature Monitor
+
+====================================
 
 Start Monitoring
 
@@ -33,9 +36,11 @@ Temperature: 24°C -> Normal
 
 Monitoring finished. Logs saved in 'temperature_log.txt'.
 
----
 
 ## 📸 Sample Output (Screenshot)
 Here’s an actual run of the program on **OnlineGDB**:
 
-![Program Output Screenshot](Screenshot-60.png)
+![Program Output Screenshot](screenshot.png)
+
+---
+
